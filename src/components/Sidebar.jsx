@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export const Sidebar = () => {
   return (
     <div
-      className="md:w-64 sm:w-full  py-4 px-3 m-5 rounded-xl border"
+      className="md:w-64 sm:w-full  py-4 px-3 m-5 mt-7 rounded-xl border"
       style={{ borderColor: "#2d2d2d" }}
     >
       <img
