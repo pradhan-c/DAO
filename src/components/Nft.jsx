@@ -16,10 +16,10 @@ const Nft = () => {
             View <BsArrowRightCircle className="ml-2" />
           </div>
         </div>
-        <div className="grid grid-cols-2 gap-x-2 gap-y-4 ml-2  mt-5 mb-5   justify-center items-center ">
+        <div className="grid grid-cols-4 md:grid-cols-2 gap-x-2 gap-y-4 ml-2  mt-5 mb-5   justify-center items-center ">
           <img
             src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
-            className=" h-24 w-24 rounded-lg"
+            className="h-24 w-24 rounded-lg"
             alt=""
           />
           <img
