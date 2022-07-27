@@ -1,7 +1,8 @@
 import React from "react";
-import Treasury from "../components/Treasury";
+import Nft from "../components/Nft";
 import { Navbar } from "../components/Navbar";
 import { Sidebar } from "../components/Sidebar";
+import Tokens from "../components/Tokens";
 
 const Treasurypage = () => {
   return (
@@ -11,7 +12,10 @@ const Treasurypage = () => {
         <div>
           <Sidebar />
         </div>
-        <Treasury />
+        <div className="flex flex-col">
+          <Nft />
+          <Tokens />
+        </div>
       </div>
     </div>
   );
