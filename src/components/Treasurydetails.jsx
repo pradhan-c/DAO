@@ -15,10 +15,10 @@ const Treasurydetails = () => {
           <div className="flex flex-row">
             <img
               src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-              className=" h-5 w-5 rounded-full"
+              className=" h-5 w-5 rounded-full mt-1"
               alt=""
             />
-            <div className="text-white font-bold text-xl">3a7iE…FtUmz</div>
+            <div className="text-white font-bold text-xl ml-3">3a7iE…FtUmz</div>
           </div>
           <div className="font-bold " style={{ color: "#8b949e" }}>
             500,000 USDC
@@ -28,11 +28,11 @@ const Treasurydetails = () => {
         <div className="flex flex-col mt-5 ">
           <div className="flex flex-row">
             <img
-              src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-              className=" h-5 w-5 rounded-full"
+              src="https://mdbootstrap.com/img/new/standard/city/042.jpg"
+              className=" h-5 w-5 rounded-full mt-1"
               alt=""
             />
-            <div className="text-white font-bold text-xl">3a7iE…FtUmz</div>
+            <div className="text-white font-bold text-xl ml-3">3a7iE…FtUmz</div>
           </div>
           <div className="font-bold" style={{ color: "#8b949e" }}>
             500,000 USDC
@@ -42,11 +42,11 @@ const Treasurydetails = () => {
         <div className="flex flex-col mt-5 ">
           <div className="flex flex-row">
             <img
-              src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-              className=" h-5 w-5 rounded-full"
+              src="https://mdbootstrap.com/img/new/standard/city/045.jpg"
+              className=" h-5 w-5 rounded-full mt-1"
               alt=""
             />
-            <div className="text-white font-bold text-xl">3a7iE…FtUmz</div>
+            <div className="text-white font-bold text-xl ml-3">3a7iE…FtUmz</div>
           </div>
           <div className="font-bold" style={{ color: "#8b949e" }}>
             500,000 USDC
@@ -56,11 +56,11 @@ const Treasurydetails = () => {
         <div className="flex flex-col mt-5 ">
           <div className="flex flex-row">
             <img
-              src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-              className=" h-5 w-5 rounded-full"
+              src="https://mdbootstrap.com/img/new/standard/city/031.jpg"
+              className=" h-5 w-5 rounded-full mt-1"
               alt=""
             />
-            <div className="text-white font-bold text-xl">3a7iE…FtUmz</div>
+            <div className="text-white font-bold text-xl ml-3">3a7iE…FtUmz</div>
           </div>
           <div className="font-bold" style={{ color: "#8b949e" }}>
             500,000 USDC
@@ -70,11 +70,11 @@ const Treasurydetails = () => {
         <div className="flex flex-col  mt-5 ">
           <div className="flex flex-row">
             <img
-              src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-              className=" h-5 w-5 rounded-full"
+              src="https://mdbootstrap.com/img/new/standard/city/034.jpg"
+              className=" h-5 w-5 rounded-full mt-1"
               alt=""
             />
-            <div className="text-white font-bold text-xl">3a7iE…FtUmz</div>
+            <div className="text-white font-bold text-xl ml-3">3a7iE…FtUmz</div>
           </div>
           <div className="font-bold text-lg" style={{ color: "#8b949e" }}>
             500,000 USDC

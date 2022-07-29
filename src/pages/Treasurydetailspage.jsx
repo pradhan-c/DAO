@@ -47,6 +47,7 @@ const Treasurydetailspage = () => {
               </div>
             </div>
           </div>
+          <hr className="mt-5" style={{ borderColor: "#2d2d2d" }} />
           <div className="flex flex-row justify-center">
             <div className="mr-12 mt-5">
               <Treasurydetails />

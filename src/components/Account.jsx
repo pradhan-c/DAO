@@ -38,10 +38,10 @@ const Account = () => {
           </div>
         </div>
         <div className="flex flex-row mt-5">
-          <button class="bg-blue-500 w-72 ml-10  hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+          <button class="bg-white w-72 ml-10  hover:bg-blue-700 text-black font-bold py-2 px-4 rounded-full">
             Copy Deposit Address
           </button>
-          <button class="bg-blue-500 w-72 ml-5 mr-10  hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+          <button class="bg-white w-72 ml-5 mr-10  hover:bg-blue-700 text-text black font-bold py-2 px-4 rounded-full">
             Send
           </button>
         </div>

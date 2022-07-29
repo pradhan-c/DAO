@@ -16,25 +16,25 @@ const Nft = () => {
             View <BsArrowRightCircle className="ml-2" />
           </div>
         </div>
-        <div className="grid grid-cols-4 gap-x-5 gap-y-4 ml-2 mr-2 mt-5 mb-5   justify-center items-center ">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-x-5 gap-y-4 ml-2 mr-2 mt-5 mb-5   justify-center items-center ">
           <img
-            src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
-            className="h-24 w-24 rounded-lg"
+            src="https://mdbootstrap.com/img/new/standard/city/034.jpg"
+            className="h-36 w-36 rounded-lg"
             alt=""
           />
           <img
-            src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-            className=" h-24 w-24  rounded-lg"
+            src="https://mdbootstrap.com/img/new/standard/city/004.jpg"
+            className=" h-36 w-36  rounded-lg"
             alt=""
           />
           <img
-            src="https://mdbootstrap.com/img/new/standard/city/040.jpg"
-            className=" h-24 w-24 rounded-lg"
+            src="https://mdbootstrap.com/img/new/standard/city/018.jpg"
+            className=" h-36 w-36 rounded-lg"
             alt=""
           />
           <img
-            src="https://mdbootstrap.com/img/new/standard/city/026.jpg"
-            className=" h-24 w-24  rounded-lg"
+            src="https://mdbootstrap.com/img/new/standard/city/031.jpg"
+            className=" h-36 w-36 rounded-lg"
             alt=""
           />
         </div>
