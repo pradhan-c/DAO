@@ -4,7 +4,10 @@ const About = () => {
   return (
     <div>
       <>
-        <div className="mx-auto mt-5 max-w-xl text-xl text-gray-50">
+        <div
+          className="mx-auto mt-5 max-w-xl text-xl text-gray-50"
+          style={{ width: "600px" }}
+        >
           <h1>About</h1>
         </div>
         <div
