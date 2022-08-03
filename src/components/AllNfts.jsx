@@ -9,56 +9,56 @@ const AllNfts = () => {
       <div class="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto m-10">
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/1.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/034.jpg"
             className="w-48 h-48 "
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/2.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/004.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/3.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/018.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/4.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/031.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/5.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/050.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/6.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/052.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/7.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/053.jpg"
             className="w-48 h-48"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://mdbootstrap.com//img/Photos/Square/8.jpg"
+            src="https://mdbootstrap.com/img/new/standard/city/054.jpg"
             className="w-48 h-48"
             alt=""
           />

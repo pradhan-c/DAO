@@ -15,7 +15,7 @@ export const Create = () => {
         <form>
           <label
             for="email"
-            className="block mt-10 mx-auto max-w-2xl text-sm font-normal text-gray-400 "
+            className="block mt-10 mb-2 mx-auto max-w-2xl text-sm font-medium text-gray-400 "
           >
             Title
           </label>
@@ -23,8 +23,9 @@ export const Create = () => {
             type="email"
             id="email"
             aria-describedby="helper-text-explanation"
-            className=" border mx-auto max-w-2xl border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  border-gray-600 placeholder-gray-400  focus:ring-blue-500 focus:border-blue-500"
+            className=" border bg-transparent mx-auto max-w-2xl border-gray-300 text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  border-gray-600 placeholder-gray-400  focus:ring-blue-500 focus:border-blue-500"
             placeholder="Any Title"
+            style={{ borderColor: "#2d2d2d" }}
           />
 
           <label
@@ -36,13 +37,14 @@ export const Create = () => {
           <textarea
             id="message"
             rows="6"
-            className="block p-2.5 w-full mx-auto max-w-2xl text-sm   rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 border-gray-600 placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500"
+            className="block bg-transparent p-2.5 w-full mx-auto max-w-2xl text-sm   rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 border-gray-600 placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500"
             placeholder="Leave a comment..."
+            style={{ borderColor: "#2d2d2d" }}
           ></textarea>
 
           <label
             for="email"
-            className="block mt-10 mx-auto max-w-2xl text-sm font-normal text-gray-400 "
+            className="block mt-10 mb-2 mx-auto max-w-2xl text-sm font-medium text-gray-400 "
           >
             Discussion(Optional)
           </label>
@@ -50,8 +52,9 @@ export const Create = () => {
             type="email"
             id="email"
             aria-describedby="helper-text-explanation"
-            className=" border mx-auto max-w-2xl border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  border-gray-600 placeholder-gray-400  focus:ring-blue-500 focus:border-blue-500"
+            className=" border bg-transparent mx-auto max-w-2xl  border-gray-300 text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  border-gray-600 placeholder-gray-400  focus:ring-blue-500 focus:border-blue-500"
             placeholder="https://forum.balancer.fi/proposal"
+            style={{ borderColor: "#2d2d2d" }}
           />
         </form>
       </div>
