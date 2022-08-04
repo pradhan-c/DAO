@@ -8,8 +8,9 @@ import Createpage from './pages/Createpage'
 import Treasurypage from './pages/Treasurypage'
 import Aboutpage from './pages/Aboutpage'
 import Detailspage from './pages/Detailspage'
-import Nftpage from './pages/Nftpage';
+import Nftpage from './pages/Nftpage'
 import Treasurydetailspage from './pages/Treasurydetailspage'
+import Delegatepage from './pages/Delegatepage'
 import { Route, Routes } from 'react-router-dom'
 
 export default function App() {
@@ -23,6 +24,7 @@ export default function App() {
         <Route path="/Details" element={<Detailspage />} />
         <Route path="/Nft" element={<Nftpage />} />
         <Route path="/Treasurydetails" element={<Treasurydetailspage />} />
+        <Route path="/Delegate" element={<Delegatepage />} />
       </Routes>
     </div>
   )
