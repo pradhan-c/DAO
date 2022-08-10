@@ -11,7 +11,7 @@ const Aboutpage = () => {
         <div>
           <Sidebar />
         </div>
-        <div>
+        <div className="m-5 md:m-0">
           <About />
         </div>
       </div>

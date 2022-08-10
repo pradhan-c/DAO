@@ -12,7 +12,7 @@ const Treasurypage = () => {
         <div>
           <Sidebar />
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col m-5 md:m-0">
           <Nft />
           <Tokens />
         </div>

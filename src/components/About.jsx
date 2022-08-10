@@ -1,5 +1,5 @@
 import React from "react";
-
+import Ethereum1 from "../assets/Ethereum-Logo.wine.png";
 const About = () => {
   return (
     <div>
@@ -69,11 +69,7 @@ const About = () => {
               className="flex flex-row py-3 px-4 w-full border-b border-gray-600"
               style={{ borderColor: "#2d2d2d" }}
             >
-              <img
-                src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
-                class=" h-8 w-8 rounded-full"
-                alt=""
-              />{" "}
+              <img src={Ethereum1} class=" h-8 w-8 rounded-full" alt="" />{" "}
               0x47f8...32a1
             </li>
             <li

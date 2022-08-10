@@ -5,7 +5,7 @@ const Card = () => {
     <div>
       <a
         href="#"
-        className="block p-6 m-2 max-w-2xl    rounded-lg border shadow-md hover:bg-gray-700"
+        className="block p-7 m-3 max-w-2xl    rounded-lg border shadow-md hover:bg-gray-700"
         style={{ borderColor: "#2d2d2d" }}
       >
         <div className="mb-3 flex flex-row justify-between">
